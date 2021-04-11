@@ -15,7 +15,7 @@ A xxxEnv.py file specifies things below:
 * Rx: x specify which kind of reward function is used
 
 ## different reward functions
-![reward functions](/ma_RiskHedging/env/reward.jpg)
+![reward functions](/env/reward.jpg)
 
 _file S4A11R5Env.py is with detailed annotation of the code_ 
  
