@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c7eb997f-9173-48f1-a4e2-072ba4c6ef46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rl project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rl project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DqnDADiscretAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomDABoxAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomDADiscretAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/result.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/DAmarketBoxEnv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/DAmarketDiscreteEnv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sbDqnDADiscretAgent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DqnAgent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewDqnAgent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/da_2018_norm.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/da_2019_norm.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/MonthlyNewS56A9R1Env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/MonthlyNewS56A9R2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/NewS27A5R4Env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/NewS55A5R2Env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/NewS55A5R3Env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/NewS55A5R4Env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/R2A11Env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/S4A11R5Env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/S51A5R4Env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/reward.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run1/events.out.tfevents.1617822283.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run10/events.out.tfevents.1618058531.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run2/events.out.tfevents.1617822497.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run3/events.out.tfevents.1617822933.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run4/events.out.tfevents.1617823433.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run5/events.out.tfevents.1617823547.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run6/events.out.tfevents.1618052106.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run7/events.out.tfevents.1618052332.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run8/events.out.tfevents.1618057422.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/cartpole/run9/events.out.tfevents.1618058261.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/originaldqn/run1/events.out.tfevents.1617656465.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/r2a11/run1/events.out.tfevents.1617738413.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/r2a11/run2/events.out.tfevents.1617803438.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/s4a11r5/run1/events.out.tfevents.1618000159.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/s4a11r5/run2/events.out.tfevents.1618050368.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/s4a11r5/run3/events.out.tfevents.1618064722.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/weeklyR4/run1/events.out.tfevents.1617546231.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/weeklyR4/run2/events.out.tfevents.1617634213.LAPTOP-YUCHEN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myrl/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myrl/agents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myrl/callbacks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myrl/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myrl/policy.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +69,11 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/env/FinalEnv.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FinalAnalyzePlot.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FinalDqnAgent.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1l5KJbnFiYRdkQJR377axgQGR9i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,7 +85,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -55,34 +93,14 @@
       <recent name="C:\Users\yuche\Dropbox\risk hedging\rl-project\algorithm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yuche\Desktop\ma_RiskHedging" />
       <recent name="C:\Users\yuche\Desktop\ma code\myrl" />
       <recent name="C:\Users\yuche\Desktop\ma code" />
       <recent name="C:\Users\yuche\Dropbox\risk hedging\rl-project\myrl" />
       <recent name="C:\Users\yuche\Dropbox\risk hedging\rl project\env" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CartpoleDqn">
-    <configuration name="CartpoleDqn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="rl project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CartpoleDqn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test">
     <configuration name="DAMarketKerasAgent" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="rl project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +114,90 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\yuche\Dropbox\risk hedging\rl-project\DAMarketKerasAgent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FinalDqnAgent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rl project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FinalDqnAgent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FinalEnv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rl project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/env" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/env/FinalEnv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KerasDqnAgen (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rl project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KerasDqnAgen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KerasDqnAgen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rl project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\yuche\Desktop\ma_RiskHedging\KerasDqnAgen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,90 +227,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OriginalDqnAgent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="rl project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OriginalDqnAgent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="R2A11Agent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="rl project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/R2A11Agent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="S4A11R5Agent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="rl project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S4A11R5Agent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="rl project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="rl project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,13 +248,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rl project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CartpoleDqn" />
-        <item itemvalue="Python.S4A11R5Agent" />
-        <item itemvalue="Python.R2A11Agent" />
-        <item itemvalue="Python.Test (1)" />
-        <item itemvalue="Python.OriginalDqnAgent" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.FinalDqnAgent" />
+        <item itemvalue="Python.FinalEnv" />
+        <item itemvalue="Python.KerasDqnAgen (1)" />
+        <item itemvalue="Python.KerasDqnAgen" />
       </list>
     </recent_temporary>
   </component>
@@ -262,5 +301,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case_study/SPandBCandCVAR.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
