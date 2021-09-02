@@ -1,24 +1,18 @@
-# Algorithm: DQN
+# Risk Hedging for renewable operators using DRL 
 
-using custom OpenAI gym environment and Keras DQN agent
+## Python environment
 
-## Folders
-<em>data</em> is for training/testing data
+* Custom environment is developed based on [OpenAI gym](https://gym.openai.com/), and DQN agent is based on [Keras-RL](https://github.com/keras-rl/keras-rl).
+* Other python packages are listed in [requirements.txt](https://github.com/Yuchen0604/ma_RiskHedging/edit/master/requirements.txt)
 
-<em>env</em> is different kind of environments ever tried
+## Components
+[data](https://github.com/Yuchen0604/ma_RiskHedging/edit/master/data) contains training and testing data.
 
-<em>logs</em> is for TensorBoard to save results
+Environment for the RL agent is developed in [env](https://github.com/Yuchen0604/ma_RiskHedging/edit/master/env).
 
-<em>myrl</em> is for code files from Keras-rl and modified basically to apply new Dqn algorithm and save training results
+[jupyter_datapre_plotting](https://github.com/Yuchen0604/ma_RiskHedging/edit/master/jupyter_datapre_plotting) contains Jupyter notebook for thesis results visualization.
 
-## File name of xxxAgents.py
 
-The main training process is in xxxAgent.py. 
+The DQN agent is developed in [FinalDqnAgent.py](https://github.com/Yuchen0604/ma_RiskHedging/edit/master/FinalDqnAgent.py).
 
-* NewDqnAgent: agent with Q value modification algorithm
-* DqnAgent: original Keras Dqn agent with some changes to save the training results 
-
-File DqnAgent.py is with detailed annotation。
-
-Fistly, just have a look at file DqnAgent.py and /env/S4A11R5.py to understand the process. Training results are uploaded in Drive.
 
